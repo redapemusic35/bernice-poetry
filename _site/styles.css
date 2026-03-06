@@ -1,0 +1,21 @@
+/* Your existing poem styles (unchanged) */
+.poem {
+  max-width: 50em;
+  margin: 3rem auto;
+  padding: 1.5rem;
+  font-size: 1.25rem;
+  line-height: 1.0;
+  font-family: "EB Garamond";
+  white-space: pre-wrap;
+}
+
+/* New: centering variant */
+.poem.center,
+.center {                     /* so it works standalone too if needed */
+  text-align: center;         /* centers each line horizontally */
+}
+
+/* Optional: If you want the poem block itself narrower for better centering effect */
+.poem.center {
+  max-width: 40em;            /* tighter for dramatic centering */
+}

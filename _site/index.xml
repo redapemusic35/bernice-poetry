@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Dusty-Trails</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Fri, 06 Mar 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Don’t You Know</title>
+  <dc:creator>Bernice Mendoza</dc:creator>
+  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="poem center">
+<div class="line-block">Laying deep within ones soul’s, sleeping desires thoughts too heavy to behold<br>
+floating above all the commotions in this world<br>
+drawing out the wisdom of all creation<br>
+built upon a single thought<br>
+fire blazing where no heat can be found<br>
+I am imagination,<br>
+seeing what has not yet been reveal<br>
+I am breath,<br>
+the first sign of life,<br>
+I cannot be seen,<br>
+yet I have always been around<br>
+I cannot be found,<br>
+yet I was never lost<br>
+hidden deep within ones soul<br>
+question me and you will find<br>
+the answers that I hold<br>
+who am I? I upon you</div>
+</div>
+
+
+
+ ]]></description>
+  <category>love</category>
+  <category>life</category>
+  <category>metaphor</category>
+  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <pubDate>Fri, 06 Mar 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Remember Me in June</title>
+  <dc:creator>Bernice Mendoza</dc:creator>
+  <link>https://your-website-url.example.com/posts/remember/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="poem center">
+<div class="line-block">This man of mine put it all together<br>
+our Anniversary, His Birthday,<br>
+Father’s Day too, to make it<br>
+on us as he would assume<br>
+easier during the month of June<br>
+The children wonder, the wife ponder,<br>
+how can something so important<br>
+come so quickly, to remember to<br>
+love to honor, to care, to<br>
+remember a day when a love one<br>
+camas to be. to remember a father<br>
+who’s important to us. and all the<br>
+other father out there too<br>
+doing the right thing and making it true<br>
+and a wife who’s devotion and love needs<br>
+to be esteem.</div>
+</div>
+
+
+
+ ]]></description>
+  <category>fathers day</category>
+  <guid>https://your-website-url.example.com/posts/remember/</guid>
+  <pubDate>Wed, 04 Mar 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/remember/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>In the Blissful Years</title>
+  <dc:creator>Bernice Mendoza</dc:creator>
+  <link>https://your-website-url.example.com/posts/blissful/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="poem center">
+<div class="line-block">Jump when the jumping is good<br>
+Dance when the dancing is easy<br>
+Don’t spend your years looking back<br>
+Stay always ready to dance<br>
+Sing a song, sing it lively<br>
+Don’t stop your ears<br>
+to the laughter of children<br>
+Open your eyes<br>
+See the beauty all around you<br>
+So that it don’t fade away out of sight<br>
+Make a good living when then the living is good<br>
+We can only count on what we have today</div>
+</div>
+
+
+
+ ]]></description>
+  <category>metaphor</category>
+  <category>life</category>
+  <guid>https://your-website-url.example.com/posts/blissful/</guid>
+  <pubDate>Sat, 04 Mar 2006 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/blissful/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
