@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Don’t You Know",
+    "objectID": "posts/blissful/index.html",
+    "href": "posts/blissful/index.html",
+    "title": "In the Blissful Years",
     "section": "",
-    "text": "Laying deep within ones soul’s, sleeping desires thoughts too heavy to behold\nfloating above all the commotions in this world\ndrawing out the wisdom of all creation\nbuilt upon a single thought\nfire blazing where no heat can be found\nI am imagination,\nseeing what has not yet been reveal\nI am breath,\nthe first sign of life,\nI cannot be seen,\nyet I have always been around\nI cannot be found,\nyet I was never lost\nhidden deep within ones soul\nquestion me and you will find\nthe answers that I hold\nwho am I? I upon you"
+    "text": "Jump when the jumping is good\nDance when the dancing is easy\nDon’t spend your years looking back\nStay always ready to dance\nSing a song, sing it lively\nDon’t stop your ears\nto the laughter of children\nOpen your eyes\nSee the beauty all around you\nSo that it don’t fade away out of sight\nMake a good living when then the living is good\nWe can only count on what we have today"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "about.html",
@@ -21,13 +28,6 @@
     "text": "Don’t You Know\n\n\n\nlove\n\nlife\n\nmetaphor\n\n\n\n\n\n\n\n\n\nMar 6, 2026\n\n\nBernice Mendoza\n\n\n\n\n\n\n\n\n\n\n\n\nRemember Me in June\n\n\n\nfathers day\n\n\n\n\n\n\n\n\n\nMar 4, 2026\n\n\nBernice Mendoza\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 3, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nIn the Blissful Years\n\n\n\nmetaphor\n\nlife\n\n\n\n\n\n\n\n\n\nMar 4, 2006\n\n\nBernice Mendoza\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "posts/remember/index.html",
     "href": "posts/remember/index.html",
     "title": "Remember Me in June",
@@ -35,10 +35,10 @@
     "text": "This man of mine put it all together\nour Anniversary, His Birthday,\nFather’s Day too, to make it\non us as he would assume\neasier during the month of June\nThe children wonder, the wife ponder,\nhow can something so important\ncome so quickly, to remember to\nlove to honor, to care, to\nremember a day when a love one\ncamas to be. to remember a father\nwho’s important to us. and all the\nother father out there too\ndoing the right thing and making it true\nand a wife who’s devotion and love needs\nto be esteem."
   },
   {
-    "objectID": "posts/blissful/index.html",
-    "href": "posts/blissful/index.html",
-    "title": "In the Blissful Years",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Don’t You Know",
     "section": "",
-    "text": "Jump when the jumping is good\nDance when the dancing is easy\nDon’t spend your years looking back\nStay always ready to dance\nSing a song, sing it lively\nDon’t stop your ears\nto the laughter of children\nOpen your eyes\nSee the beauty all around you\nSo that it don’t fade away out of sight\nMake a good living when then the living is good\nWe can only count on what we have today"
+    "text": "Laying deep within ones soul’s, sleeping desires thoughts too heavy to behold\nfloating above all the commotions in this world\ndrawing out the wisdom of all creation\nbuilt upon a single thought\nfire blazing where no heat can be found\nI am imagination,\nseeing what has not yet been reveal\nI am breath,\nthe first sign of life,\nI cannot be seen,\nyet I have always been around\nI cannot be found,\nyet I was never lost\nhidden deep within ones soul\nquestion me and you will find\nthe answers that I hold\nwho am I? I upon you"
   }
 ]
